@@ -132,9 +132,9 @@ export default function Sidebar({ mobileOpen = false, onClose }: SidebarProps) {
         </nav>
 
         <div className="sidebar-bottom">
-          <div className="status-dot" />
+    
           <div>
-            <strong>System online</strong>
+           
             <span>API connected</span>
           </div>
         </div>
